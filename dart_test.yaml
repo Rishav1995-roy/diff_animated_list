@@ -1,0 +1,3 @@
+tags:
+  demo:
+    skip: "Demo asset generation only; run with: flutter test --run-skipped -t demo tool/make_demo_test.dart"
